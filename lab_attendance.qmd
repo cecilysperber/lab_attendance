@@ -1,0 +1,8 @@
+---
+title: "Lab Attendance"
+authoer: "Cecily Sperber"
+format: html
+editor: visual
+---
+
+## I have learned how to commit and push my work from RStudios to my Github page. 
